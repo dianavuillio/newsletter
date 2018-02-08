@@ -1,0 +1,23 @@
+
+input.form-control,
+input.form-control:focus{
+  background: none;
+  border: 2px solid gray;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+  color: white;
+  box-shadow: none;
+
+
+}
+input.form-control{
+  opacity: 0.8;
+
+}
+input.form-control:focus{
+  opacity: 1;
+  border-bottom-color: white;
+
+}
